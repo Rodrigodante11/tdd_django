@@ -1,6 +1,6 @@
 ### TDD com Django
 ### Projeto desenvolvido durante a formacao django do alura
-<p> Para instalar o as dependencias do Projeto  </p>
+<p> Para instalar as dependencias do Projeto  </p>
 
 ```
  pip install -r requirements.txt 
